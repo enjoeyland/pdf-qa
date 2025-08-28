@@ -1,0 +1,17 @@
+# AI 모델
+# ⚠️ PyTorch 공식 설치 가이드에서 확인 후 설치: https://pytorch.org/get-started/locally/
+# torch
+# torchvision
+transformers
+
+# 벡터 검색
+faiss-cpu
+
+# OpenAI API
+openai
+
+# 환경 변수 관리
+python-dotenv
+
+# PDF 처리
+PyMuPDF
